@@ -1,0 +1,9 @@
+2024-11-24 10:09:55 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\21feb24\E-Commerce\master.xml
+
+2024-11-24 10:10:04 INFO  TC001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-24 10:10:05 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount Link.. 
+2024-11-24 10:10:06 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register Link.. 
+2024-11-24 10:10:06 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-11-24 10:10:09 ERROR TC001_AccountRegistrationTest:52 - Test failed: Keys to send should be a not null CharSequence
+2024-11-24 10:10:09 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
