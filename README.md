@@ -1,0 +1,2 @@
+This  is a model framework for  retail shopping website testing using Java programming language and Selenium WebDriver.Integrating TestNG,Page Object Model(POM) and utility classes for optimized testing.Implementing Listener classes to enhance test execution reports.Configuration Files for specifying evniroment specific test-settings.
+Configured Maven for dependency management and automated build process ,ensuring a standardized project structure.
